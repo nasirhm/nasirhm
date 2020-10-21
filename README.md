@@ -11,7 +11,7 @@ Pronouns: He/Him/His
 
 [linkedin/nasirhm](https://www.linkedin.com/in/nasirhm)
 
-## Contact Merthods
+## Contact Methods
 
 You can find my contact Methods [here](https://nasirhussain.tech/contact/)
 
