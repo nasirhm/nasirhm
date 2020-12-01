@@ -2,7 +2,7 @@
 
 I'm a Software Developer
 
-Here's [My Blog](https://nasirhussain.tech/posts/)
+Here's [My Blog](https://nasirhm.github.io/posts/)
 
 Pronouns: He/Him/His
 
@@ -13,7 +13,7 @@ Pronouns: He/Him/His
 
 ## Contact Methods
 
-You can find my contact Methods [here](https://nasirhussain.tech/contact/)
+You can find my contact Methods [here](https://nasirhm.github.io/contact/)
 
 ---
 
